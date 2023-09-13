@@ -1,0 +1,3 @@
+- I am Gabriel H.
+- I have been using PHP for three years, and Laravel for one year.
+- To contact me, I am available on Discord via @genosmrpg7899.
